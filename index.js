@@ -87,7 +87,7 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 });
 
-//Не совсем корректно работающая версия
+//Не совсем корректно работающая версия, но я пока оставлю её для себя
 
 // document.addEventListener("DOMContentLoaded", function () {
 //   const form = document.forms.registerForm;
